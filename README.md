@@ -1,2 +1,2 @@
-# gohello.github.io
+# homework.github.io
 code
